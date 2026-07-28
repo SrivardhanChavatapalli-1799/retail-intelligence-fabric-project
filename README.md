@@ -121,3 +121,6 @@ This project demonstrates:
 - DAX measures
 - Power BI reporting
 
+## Dashboard Preview
+
+![Retail Intelligence Dashboard](./RETAIL_DASHBOARD.png)
