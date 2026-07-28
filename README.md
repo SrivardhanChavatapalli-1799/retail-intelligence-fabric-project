@@ -124,3 +124,7 @@ This project demonstrates:
 ## Dashboard Preview
 
 ![Retail Intelligence Dashboard](./RETAIL_DASHBOARD.png)
+
+## Architecture Diagram
+
+![Retail Intelligence Fabric Project Architecture](./RETAIL_INTELLIGENCE_FABRIC_PROJECT_ARCHITECTURE.png)
