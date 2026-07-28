@@ -128,3 +128,9 @@ This project demonstrates:
 ## Architecture Diagram
 
 ![Retail Intelligence Fabric Project Architecture](./RETAIL_INTELLIGENCE_FABRIC_PROJECT_ARCHITECTURE.png)
+
+## Notebooks
+
+- [Bronze Ingestion](./notebooks/Bronze_Ingestion.ipynb)
+- [Silver Transformation](./notebooks/Silver_Transformation Copy.ipynb)
+- [Gold Modeling](./notebooks/GOLD_MODELLING.ipynb)
